@@ -1,3 +1,11 @@
+THIS fork serves the only purpose to have shr3kst3r's pull-request
+together with a increased version number.
+
+See:
+
+- https://github.com/shr3kst3r
+- https://github.com/dbroeglin/nagios_check/pull/2
+
 NagiosCheck
 ============
 
